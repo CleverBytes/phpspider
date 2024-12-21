@@ -35,7 +35,7 @@ class autoloader
     {
         self::$_autoload_root_path = $root_path;
     }
-
+ * Licensed under The MIT License
     /**
      * Load files by namespace.
      *
